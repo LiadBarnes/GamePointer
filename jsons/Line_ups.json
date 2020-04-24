@@ -1,0 +1,53 @@
+{
+  "Beginner_BlueStacks": {
+    "Agility": 4,
+    "Backhand": 3,
+    "Forehand": 5,
+    "Serve": 4,
+    "Stamina": 2,
+    "Volley": 2,
+    "mouse_offset": [
+      280,
+      930
+    ],
+    "power": -605,
+    "serve_power": -450
+  },
+  "Beginner_Pixel": {
+    "Agility": 4,
+    "Backhand": 8,
+    "Forehand": 5,
+    "Serve": 7,
+    "Stamina": 7,
+    "Volley": 7,
+    "mouse_offset": [
+      280,
+      930
+    ],
+    "power": -355,
+    "serve_power": -450
+  },
+  "Volley": {
+    "mouse_offset": "Vysor",
+    "serve": {
+      "Left": -57,
+      "Power": -350,
+      "Right": 90,
+      "Straight": 40
+    },
+    "shot": {
+      "Left": -60,
+      "Power": -275,
+      "Right": 60,
+      "Straight": 0
+    },
+    "skills": {
+      "Agility": 42,
+      "Backhand": 19,
+      "Forehand": 17,
+      "Serve": 28,
+      "Stamina": 12,
+      "Volley": 38
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{     "7": "Serve_Left",
+      "9": "Serve_Right",
+
+      "a": "Shot_Left",
+      "w": "Shot_Straight",
+      "d": "Shot_Right",
+
+      "p": "Power_inc_shot",
+      "l": "Power_dec_shot",
+      "8": "Power_inc_serve",
+      "5": "Power_dec_serve",
+
+      "esc": "Esc"
+}
